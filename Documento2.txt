@@ -10,3 +10,6 @@ testando edição
 
 teste 
 
+
+alteração dentro de outro diretório
+1111122
